@@ -1,0 +1,1 @@
+function ಠ_ಠ879(){console.log("Quiubo")}ಠ_ಠ879(),alert("JS conectado");
